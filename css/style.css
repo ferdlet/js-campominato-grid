@@ -15,6 +15,7 @@
 
 main {
     background-color: aquamarine;
+    padding: 50px 0;
 }
 
 .container {
@@ -33,6 +34,11 @@ main {
 .square {
     float: left;
     border: 2px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: bold;
 }
 
 .easy {
@@ -54,6 +60,10 @@ main {
     background-color: lightskyblue;
 }
 
+
+footer {
+    height: 80px;
+}
 
 
 
