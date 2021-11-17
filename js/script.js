@@ -37,7 +37,7 @@ buttonGioca.addEventListener("click", function () {
     }
 });
 
-const square = document.getElementsByClassName('sqare');
+const square = document.getElementsByClassName('square');
 
 // for (i = 1; i <= 100; i++) {
 //     square[i].addEventListener("click", function(){
